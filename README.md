@@ -28,7 +28,7 @@ We're going to use what we've learned already about searching with SQL commands,
 
 ```sql
   # Create database
-  sqlite3 carmen;
+  sqlite3 carmen
 
   # Load the world data into the carmen database
   sqlite> .read world.sql
